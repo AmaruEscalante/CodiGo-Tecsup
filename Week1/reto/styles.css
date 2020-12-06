@@ -1,0 +1,15 @@
+li{
+  padding: 15px;
+}
+
+nav{
+  background-color: blue;
+  color: white;
+}
+
+img{
+  display: block;
+  width: 100vw;
+  max-width: 100%;
+  height: auto;
+}
